@@ -1,0 +1,50 @@
+Introduction
+  1. Introduce the problem that you are solving
+  2. Explain why this is an important problem to solve
+  3. Describe the goals and objectives
+  4. Describe, in brief, the approach adopted
+  5. Explain the novelty of your work
+  6. Describe how the rest of the paper is organized
+
+Literature Review / Background / Related works
+
+Briefly describe different related works in the literature
+For each work, explain the approach, result and pros and
+cons (optional). Optionally you can summarize the literature review
+in a tabular format.
+
+Methodology
+  1. Describe the step by step approach adopted (include a
+     diagram to illustrate the step by step approach)
+
+  2. Describe each step with necessary details
+
+Results
+
+Display the results clearly using tables and figures.
+Compare your work with others (optional)
+
+Discussion (Optional) 
+
+Discuss how the results obtained meet the original goal that you have set.
+
+Conclusion
+
+   1. Wrap up the entire work and highlight the key findings
+
+   2. Briefly, describe how you would like to extend this
+      work in future.  
+
+.........................................................
+Important points
+
+1. English needs to be simple, formal and understandable
+2. Avoid unnecessary details
+3. English needs to be formal - avoid "&", can't
+4. Whenever possible, use passive voice
+5. Whenever possible, use appropriate references to make
+   your argument strong
+
+   E.g. Instead of writing "We collected the dataset using
+   a survey" you can write "The dataset was collected
+   through a survey"
