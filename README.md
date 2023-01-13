@@ -2,8 +2,8 @@
 CSE445 Project on finding if a person has internet gaming disorder using machine learning
 
 > <h3>Group Member: </h3> 
-+ Kazi Mosaddequr 1831543042  <br>
 + Samya Sunibir Das 1911563642  <br>
++ Kazi Mosaddequr 1831543042  <br>
 + Emon Emtiyaz 1813128642 <br>
   
  > <h2> Project source is from Mendeley: </h2>
